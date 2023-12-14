@@ -4,7 +4,7 @@ author: Lorenzo Drumond
 date: 2023-12-12T17:27:39
 last: 2023-12-14T16:02:30
 zk_id: cdb798cfffc3fbd35361e5ab2fbe363c
-tags: #development #python #todo #notepy
+tags: #development #python #notepy #todo
 ---
 
 
@@ -29,3 +29,4 @@ tags: #development #python #todo #notepy
 
 
 # References
+- [[notepy-ideas]]
