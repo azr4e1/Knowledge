@@ -2,9 +2,9 @@
 title: Notepy ideas
 author: Lorenzo Drumond
 date: 2023-12-12T17:27:39
-last: 2023-12-12T18:28:45
+last: 2023-12-14T16:02:30
 zk_id: cdb798cfffc3fbd35361e5ab2fbe363c
-tags: #notepy #development #python
+tags: #development #python #todo #notepy
 ---
 
 
