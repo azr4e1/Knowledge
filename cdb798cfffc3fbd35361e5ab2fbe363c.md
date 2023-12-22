@@ -2,14 +2,15 @@
 title: Notepy ideas
 author: Lorenzo Drumond
 date: 2023-12-12T17:27:39
-last: 2023-12-21T15:40:19
+last: 2023-12-22T23:19:18
 zk_id: cdb798cfffc3fbd35361e5ab2fbe363c
-tags: #python #development #notepy #todo
+tags: #todo #python #notepy #development
 ---
 
 
 # Notepy ideas
 
+- [ ] Create tests!!!
 - [ ] Add a star when creating _next_ note to indicate the link to the next note
 - [ ] When adding git origin at initialization, if remote exists already, pull from that
 - [ ] support filename reference and full title reference for links
