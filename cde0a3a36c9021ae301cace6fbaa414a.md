@@ -2,9 +2,9 @@
 title: Test of Proportions
 author: Lorenzo Drumond
 date: 2023-11-14T13:49:32
-last: 2023-11-14T13:49:32
+last: 2023-12-23T02:22:19
 zk_id: cde0a3a36c9021ae301cace6fbaa414a
-tags: #proportions #statistics #designing_running_and_analyzing_experiments #test #coursera #experiment #theory #week2 #design #rlang
+tags: #week2 #theory #experiment #test #statistics #designing_running_and_analyzing_experiments #proportions #design #coursera #rlang
 ---
 
 
@@ -28,5 +28,5 @@ What does it mean to get a significant result? p-value is below 0.05, traditiona
 Degree of freedom is a parameter that depends on the test. This parameter needs to be reported.
 
 # References
-- [[https://www.coursera.org/learn/designexperiments]]
+- https://www.coursera.org/learn/designexperiments
 - [[report-the-result-of-a-test]]
