@@ -2,9 +2,9 @@
 title: Notepy ideas
 author: Lorenzo Drumond
 date: 2023-12-12T17:27:39
-last: 2023-12-22T23:21:14
+last: 2023-12-24T02:19:51
 zk_id: cdb798cfffc3fbd35361e5ab2fbe363c
-tags: #todo #notepy #development #python
+tags: #todo #notepy #python #development
 ---
 
 
@@ -12,7 +12,7 @@ tags: #todo #notepy #development #python
 
 - [ ] Create tests!!!
 - [ ] Consider using the `rich` library for pretty printing?
-- [ ] Add a star when creating _next_ note to indicate the link to the next note
+- [x] Add a star when creating _next_ note to indicate the link to the next note
 - [ ] When adding git origin at initialization, if remote exists already, pull from that
 - [ ] support filename reference and full title reference for links
 - [ ] extend print functionality to print different parts of the notes. Also support color.
