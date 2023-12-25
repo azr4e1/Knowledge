@@ -2,15 +2,16 @@
 title: Notepy ideas
 author: Lorenzo Drumond
 date: 2023-12-12T17:27:39
-last: 2023-12-24T02:36:36
+last: 2023-12-25T17:25:16
 zk_id: cdb798cfffc3fbd35361e5ab2fbe363c
-tags: #notepy #python #todo #development
+tags: #todo #python #notepy #development
 ---
 
 
 # Notepy ideas
 
 - [ ] Create tests!!!
+- [ ] pager for `list` command when beyond certain length
 - [ ] Consider using the `rich` library for pretty printing?
 - [x] Add a star when creating _next_ note to indicate the link to the next note
 - [ ] When adding git origin at initialization, if remote exists already, pull from that
