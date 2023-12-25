@@ -2,9 +2,9 @@
 title: Notepy ideas
 author: Lorenzo Drumond
 date: 2023-12-12T17:27:39
-last: 2023-12-25T17:25:16
+last: 2023-12-25T18:08:01
 zk_id: cdb798cfffc3fbd35361e5ab2fbe363c
-tags: #todo #python #notepy #development
+tags: #development #todo #python #notepy
 ---
 
 
@@ -13,6 +13,7 @@ tags: #todo #python #notepy #development
 - [ ] Create tests!!!
 - [ ] pager for `list` command when beyond certain length
 - [ ] Consider using the `rich` library for pretty printing?
+- [ ] rename functionality to rename a note and all the links pointing to it
 - [x] Add a star when creating _next_ note to indicate the link to the next note
 - [ ] When adding git origin at initialization, if remote exists already, pull from that
 - [x] support filename reference and full title reference for links
