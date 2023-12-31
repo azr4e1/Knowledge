@@ -2,9 +2,9 @@
 title: Test of Proportions
 author: Lorenzo Drumond
 date: 2023-11-14T13:49:32
-last: 2023-12-23T02:22:19
+last: 2023-12-31T16:40:54
 zk_id: cde0a3a36c9021ae301cace6fbaa414a
-tags: #week2 #theory #experiment #test #statistics #designing_running_and_analyzing_experiments #proportions #design #coursera #rlang
+tags: #experiment #statistics #rlang #coursera #week2 #design #theory #test #designing_running_and_analyzing_experiments #proportions
 ---
 
 
@@ -29,4 +29,5 @@ Degree of freedom is a parameter that depends on the test. This parameter needs 
 
 # References
 - https://www.coursera.org/learn/designexperiments
-- [[report-the-result-of-a-test]]
+
+Next -> [[report-the-result-of-a-test]]
