@@ -2,7 +2,7 @@
 title: Exploration vs Exploitation
 author: Lorenzo Drumond
 date: 2023-11-20T15:55:56
-last: 2024-01-04T12:38:02
+last: 2024-01-04T12:39:57
 zk_id: 32b5e28dfabd0aff712a5aadbc17e595
 tags: #medium #exploration #exploitation #statistics #math #tradeoff
 ---
@@ -25,6 +25,5 @@ Either way, the data we have is not enough to identify the best decision with 10
 # References
 - https://towardsdatascience.com/the-exploration-exploitation-dilemma-f5622fbe1e82
 - [[comparing-stategies]]
-
 
 Next -> [[multi-armed-bandits-framework]]
