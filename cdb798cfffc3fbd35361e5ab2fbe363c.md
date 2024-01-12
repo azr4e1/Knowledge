@@ -2,9 +2,9 @@
 title: Notepy ideas
 author: Lorenzo Drumond
 date: 2023-12-12T17:27:39
-last: 2023-12-25T18:16:27
+last: 2024-01-12T10:14:25
 zk_id: cdb798cfffc3fbd35361e5ab2fbe363c
-tags: #notepy #development #todo #python
+tags: #notepy #todo #python #development
 ---
 
 
@@ -13,7 +13,8 @@ tags: #notepy #development #todo #python
 - [ ] Create tests!!!
 - [ ] pager for `list` command when beyond certain length
 - [ ] add rename functionality to rename a note and all the links pointing to it
-- [ ] add grep wrapper
+- [ ] In confirmation question, if mistyping repeat question
+- [ ] add grep wrapper to search for words inside the notes
 - [ ] When adding git origin at initialization, if remote exists already, pull from that
 - [ ] extend print functionality to print different parts of the notes. Also support color.
 - [ ] Find broken links
@@ -21,7 +22,7 @@ tags: #notepy #development #todo #python
 - [ ] Support for using external or internal tool for fuzzy finding/searching
 - [ ] Support for TOML configuration
 - [ ] Consider using the `rich` library for pretty printing?
-- [ ] Plugin system
+- [ ] Plugin ecosystem
 - [x] Add a star when creating _next_ note to indicate the link to the next note
 - [x] support filename reference and full title reference for links
 
