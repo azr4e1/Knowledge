@@ -2,9 +2,9 @@
 title: Notepy ideas
 author: Lorenzo Drumond
 date: 2023-12-12T17:27:39
-last: 2024-01-12T10:14:25
+last: 2024-01-12T11:37:38
 zk_id: cdb798cfffc3fbd35361e5ab2fbe363c
-tags: #notepy #todo #python #development
+tags: #notepy #python #todo #development
 ---
 
 
@@ -23,6 +23,7 @@ tags: #notepy #todo #python #development
 - [ ] Support for TOML configuration
 - [ ] Consider using the `rich` library for pretty printing?
 - [ ] Plugin ecosystem
+- Implement mouse actions
 - [x] Add a star when creating _next_ note to indicate the link to the next note
 - [x] support filename reference and full title reference for links
 
