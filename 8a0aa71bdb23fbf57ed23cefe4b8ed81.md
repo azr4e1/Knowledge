@@ -2,14 +2,14 @@
 title: Test coverage in Go
 author: Lorenzo Drumond
 date: 2024-01-21T13:01:56
-last: 2024-01-21T13:06:23
+last: 2024-01-21T13:07:00
 zk_id: 8a0aa71bdb23fbf57ed23cefe4b8ed81
-tags: #programming #command #testing #coverage #go
+tags: #go #coverage #command #testing #programming
 ---
 
 
 # Test coverage in Go
-Test coverage referse to the portion of 'system' code which should be executed - _covered_ - by some test.
+Test coverage refers to the portion of 'system' code which should be executed - _covered_ - by some test.
 
 Go toolchain provides a command to check this:
 ```bash
