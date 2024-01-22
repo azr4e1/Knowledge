@@ -2,7 +2,7 @@
 title: Test coverage in Go
 author: Lorenzo Drumond
 date: 2024-01-21T13:01:56
-last: 2024-01-22T09:48:18
+last: 2024-01-22T09:48:40
 zk_id: 8a0aa71bdb23fbf57ed23cefe4b8ed81
 tags: #coverage #go #command #testing #programming
 ---
