@@ -2,9 +2,9 @@
 title: Test coverage in Go
 author: Lorenzo Drumond
 date: 2024-01-21T13:01:56
-last: 2024-01-21T13:07:00
+last: 2024-01-22T09:48:18
 zk_id: 8a0aa71bdb23fbf57ed23cefe4b8ed81
-tags: #go #coverage #command #testing #programming
+tags: #coverage #go #command #testing #programming
 ---
 
 
@@ -30,3 +30,4 @@ This will generate an HTML output that will open the browser automatically. The 
 Definitions, constants and so on are just instructions to the compiler, and don't result in any generated object code in your program binary, so the coverage tool ignores them.
 
 # References
+- John Arundel, For the Love of Go
