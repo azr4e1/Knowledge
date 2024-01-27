@@ -2,7 +2,7 @@
 title: Go types and methods
 author: Lorenzo Drumond
 date: 2024-01-22T16:47:27
-last: 2024-01-27T00:22:54
+last: 2024-01-27T00:24:21
 zk_id: 92253db4d6ac6fc977cd9ffea527aeee
 tags: #methods #types #receiver #programming #non_local #golang
 ---
@@ -20,6 +20,8 @@ type Book struct {
     Author string
     Copies int
     ID     int
+    PriceCents int
+    DiscountPercent int
 }
 ```
 
