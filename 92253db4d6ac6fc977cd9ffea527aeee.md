@@ -46,3 +46,5 @@ func (b Book) NetPriceCents() int {
 - John Arundel, For the Love of Go
 
 Next -> [[go-struct-wrappers]]
+
+Next -> [[go-methods-on-non-local-types]]
