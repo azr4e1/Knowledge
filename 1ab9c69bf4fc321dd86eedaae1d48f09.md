@@ -4,7 +4,7 @@ author: Lorenzo Drumond
 date: 2024-01-29T10:27:12
 last: 2024-01-29T10:34:36
 zk_id: 1ab9c69bf4fc321dd86eedaae1d48f09
-tags: #variadic #closure #values #expression #list #literals #type #golang #first_class_citizens #bubble #body #parameters #programming #signature #tuple #functions #declare
+tags: #parameters #body #signature #functions #type #literals #variadic #golang #closure #tuple #list #expression #first_class_citizens #bubble #declare #programming #values
 ---
 
 
@@ -25,3 +25,5 @@ Any time you're updating a variable that's referenced by a closure, you need to 
 
 # References
 - John Arundel, For the Love of Go
+
+Next -> [[the-defer-keyword-in-go]]
