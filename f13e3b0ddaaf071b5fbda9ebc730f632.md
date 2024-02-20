@@ -2,14 +2,16 @@
 title: Flow Engineering
 author: Lorenzo Drumond
 date: 2024-02-20T18:29:12
-last: 2024-02-20T18:35:20
+last: 2024-02-20T18:39:14
 zk_id: f13e3b0ddaaf071b5fbda9ebc730f632
-tags: #coding #engineering #artificial_intelligence #few_shot #flow #procedure #computer_science #learning #codium #LLM #AI #tests #code #programming #ML #one_shot
+tags: #engineering #programming #code #artificial_intelligence #procedure #codium #computer_science #tests #learning #few_shot #coding #LLM #AI #one_shot #flow #ML
 ---
 
 
 # Flow Engineering
 Flow engineering is a procedure that guides a model's (LLM) problem-solving process by splitting it into well-defined steps.
+
+Implementing a careful pipeline that generates additional data to guide how code is generated and improve the testing process can be more effective than trying to train a large language model from scratch.
 
 E.g. AlphaCodium (code generating bot)
 
