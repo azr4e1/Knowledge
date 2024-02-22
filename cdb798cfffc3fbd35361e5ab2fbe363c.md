@@ -2,15 +2,16 @@
 title: Notepy ideas
 author: Lorenzo Drumond
 date: 2023-12-12T17:27:39
-last: 2024-02-18T18:22:16
+last: 2024-02-22T16:43:53
 zk_id: cdb798cfffc3fbd35361e5ab2fbe363c
-tags: #todo #development #python #notepy
+tags: #todo #notepy #python #development
 ---
 
 
 # Notepy ideas
 
 - [ ] Create tests!!!
+- [ ] Warning about formatting issues in notes should only belong in reindex
 - [ ] pager for `list` command when beyond certain length
 - [ ] pager table formatting
 - [ ] add rename functionality to rename a note and all the links pointing to it
