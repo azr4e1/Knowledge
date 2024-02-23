@@ -2,9 +2,9 @@
 title: Go types and methods
 author: Lorenzo Drumond
 date: 2024-01-22T16:47:27
-last: 2024-01-27T00:24:21
+last: 2024-02-23T17:26:42
 zk_id: 92253db4d6ac6fc977cd9ffea527aeee
-tags: #methods #types #receiver #programming #non_local #golang
+tags: #non_local #golang #methods #programming #types #receiver
 ---
 
 
@@ -39,6 +39,32 @@ A method in Go is defined similarly to a function, but we need to specify a _rec
 func (b Book) NetPriceCents() int {
     saving := b.PriceCents * b.DiscountPercent / 100
     return b.PriceCents - saving
+}
+```
+
+A _method_ is a function with a special _receiver_ argument.
+
+The receiver appears in its own argument list between the `func` keyword and the method name.
+
+```go
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+type Vertex struct {
+	X, Y float64
+}
+
+func (v Vertex) Abs() float64 {
+	return math.Sqrt(v.X*v.X + v.Y*v.Y)
+}
+
+func main() {
+	v := Vertex{3, 4}
+	fmt.Println(v.Abs())
 }
 ```
 
