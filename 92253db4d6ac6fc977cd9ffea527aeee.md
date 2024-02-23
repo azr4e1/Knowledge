@@ -74,3 +74,5 @@ func main() {
 Next -> [[go-struct-wrappers]]
 
 Next -> [[go-methods-on-non-local-types]]
+
+Next -> [[methods-on-non-struct-types]]
