@@ -31,3 +31,5 @@ If not, `ok` will be `false` and `t` will be the zero value of type `T`, and no 
 
 # References
 - [[go-types-and-methods]]
+
+Next -> [[type-switches-in-go]]
