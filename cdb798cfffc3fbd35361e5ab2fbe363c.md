@@ -2,7 +2,7 @@
 title: Notepy ideas
 author: Lorenzo Drumond
 date: 2023-12-12T17:27:39
-last: 2024-03-02T02:55:40
+last: 2024-03-26T11:57:46
 zk_id: cdb798cfffc3fbd35361e5ab2fbe363c
 tags: #todo #notepy #python #development
 ---
@@ -14,6 +14,7 @@ tags: #todo #notepy #python #development
 - [ ] Warning about formatting issues in notes should only belong in reindex
 - [ ] shortcut to get all the notes linking to current note in browsing mode
 - [ ] pager for `list` command when beyond certain length
+- [ ] scroll bar for pager
 - [ ] pager table formatting
 - [ ] add rename functionality to rename a note and all the links pointing to it
 - [ ] strip whitespace and newline from title when creating new notes
