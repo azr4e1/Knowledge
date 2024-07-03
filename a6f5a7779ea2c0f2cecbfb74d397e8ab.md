@@ -4,7 +4,7 @@ author: Lorenzo Drumond
 date: 2024-07-03T12:42:02
 last: 2024-07-03T12:45:11
 zk_id: a6f5a7779ea2c0f2cecbfb74d397e8ab
-tags: #integrity #PKI #confidentiality #authorisation #errors #authentication #cryptography #auditing #authenticity #security #model #basics
+tags: #integrity #PKI #confidentiality #errors #authorisation #cryptography #auditing #authenticity #basics #security #model #authentication
 ---
 
 
@@ -19,3 +19,5 @@ Key rotation is one of the challenges of PKI. It requires determining the crypto
 
 
 # References
+
+Next -> [[data-lifetimes]]
