@@ -2,7 +2,7 @@
 title: Cryptographic glossary
 author: Lorenzo Drumond
 date: 2024-07-03T11:15:24
-last: 2024-07-03T11:16:21
+last: 2024-07-03T12:55:57
 zk_id: 967c70df1e8c1ee9cfb8ab3a8fdc093c
 tags: #cryptography #glossary
 ---
@@ -18,6 +18,7 @@ tags: #cryptography #glossary
 - To decrypt a message to reverse the confidentiality transformation, and often indicates that the other two properties have been verified.
 - A hash or digest algorithm transforms some arbitrary message into a fixed-size output, also called a digest or hash. A cryptographic hash is such an algorithm that satisfies some specific security goals.
 - A peer or party describes an entity involved in the communication process. It might be a person or another machine.
+- ciphersuite: a selection of algorithms that we’ll use to provide security.
 
 # References
 - https://leanpub.com/gocrypto/read#leanpub-auto-chapter-1-introduction
