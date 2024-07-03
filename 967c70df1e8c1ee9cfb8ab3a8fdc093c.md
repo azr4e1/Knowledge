@@ -4,7 +4,7 @@ author: Lorenzo Drumond
 date: 2024-07-03T11:15:24
 last: 2024-07-03T11:16:21
 zk_id: 967c70df1e8c1ee9cfb8ab3a8fdc093c
-tags: #glossary #cryptography
+tags: #cryptography #glossary
 ---
 
 
@@ -21,3 +21,5 @@ tags: #glossary #cryptography
 
 # References
 - https://leanpub.com/gocrypto/read#leanpub-auto-chapter-1-introduction
+
+Next -> [[cryptography-basics]]
