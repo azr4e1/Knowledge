@@ -2,9 +2,9 @@
 title: Git branches
 author: Lorenzo Drumond
 date: 2024-07-24T22:58:33
-last: 2024-07-24T23:00:10
+last: 2024-07-29T20:43:14
 zk_id: ceb73ddae5378bce4ee0e5a77e41abac
-tags: #computer_science #git #states #primeagen #index #workflow #working_tree #optimal #logs #plumbing #compressed #git_directory #repos #programming #github #configuration #repository #commit #snapshot #packed #stage #history
+tags: #boot_dev #history #commit #github #git_directory #primeagen #packed #programming #plumbing #states #optimal #git #configuration #compressed #repos #index #snapshot #working_tree #computer_science #repository #workflow #stage #logs
 ---
 
 
