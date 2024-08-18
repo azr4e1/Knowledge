@@ -2,9 +2,9 @@
 title: Data structures
 author: Lorenzo Drumond
 date: 2024-08-18T22:34:03
-last: 2024-08-18T22:41:18
+last: 2024-08-18T22:41:50
 zk_id: ee25ca3d9fecae7facd2fa5a76205232
-tags: #computer_science #boot_dev #data #structure #programming
+tags: #structure #boot_dev #data #computer_science #programming
 ---
 
 
@@ -25,3 +25,5 @@ In other words, a data structure:
 # References
 
 - boot.dev
+
+Next -> [[stack-data-structure]]
