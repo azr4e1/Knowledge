@@ -26,3 +26,5 @@ When an algorithm traverses a graph, it typically moves across the edges. For ex
 # References
 
 - boot.dev
+
+Next -> [[adjacency-matrix-for-graphs]]
